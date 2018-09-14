@@ -1,5 +1,7 @@
 package com.sl.utils.text;
 
+import com.sl.utils.date.DateUtils;
+
 import java.io.*;
 import java.util.List;
 
@@ -13,6 +15,7 @@ public class TextUtils {
      *
      * @param result
      * @param fileName
+     * @param filePath
      * @return
      */
     public static boolean writeText(List<String> result, String fileName, String filePath)  {
