@@ -15,6 +15,12 @@ import java.util.zip.ZipOutputStream;
 
 /**
  * docx、doc文档生成工具类  (改变后缀名即可)
+ * 在使用制作模板的过程中如果模板中有图片那就保留图片，注意[Content_Types].xml和document.xml.rels文档
+ * 如果模板中没有图片 则不需要设置[Content_Types].xml和document.xml.rels
+ * 由于word模板的个性化 所以 每次做模板都要重新覆盖原来的模板
+ *
+ *
+ *
  * gaoxueyong
  */
 public class WordUtils {
