@@ -11,7 +11,7 @@
 #### 安装教程
 
 1. 下载并安装配置maven和Git
-2. git clone 
+2. git clone https://github.com/wahnn/JavaUtilsProject.git
 3. 导入eclipse 或 INTELLIJ IDEA
 
 #### 使用说明
