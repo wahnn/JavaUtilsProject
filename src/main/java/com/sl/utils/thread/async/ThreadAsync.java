@@ -1,4 +1,4 @@
-package com.sl.utils.thread;
+package com.sl.utils.thread.async;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.Async;

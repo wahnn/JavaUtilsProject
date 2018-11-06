@@ -25,7 +25,7 @@ public class ThreadPool {
                 executor.execute(myTask);
 //                Future feature = executor.submit(myTask);
 
-                System.out.println("线程池中线程数量:" + executor.getPoolSize() + " 队列中等待执行的数量:" +
+                System.out.println("线程池中线程数量:TaskExecutorConfig" + executor.getPoolSize() + " 队列中等待执行的数量:" +
                         executor.getQueue().size() + ", 已经执行完毕的任务数量:" + executor.getCompletedTaskCount() + " 时刻:" + new Date());
             }
 

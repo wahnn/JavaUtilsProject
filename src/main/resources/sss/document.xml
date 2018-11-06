@@ -1,0 +1,3115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:w10="urn:schemas-microsoft-com:office:word"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+            xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+            xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 wp14">
+    <w:body>
+        <w:p w14:paraId="760AD543" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="748DFE62" w14:textId="235F02A2" w:rsidR="00551599" w:rsidRDefault="00EC67F3"
+             w:rsidP="00551599">
+            <w:r>
+                <w:t>${xxxxname}</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0664F356" w14:textId="4AF08982" w:rsidR="00551599" w:rsidRDefault="00BE350E"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>xxxxage</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>岁</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">   |</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>男</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">   |</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>本科</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">   |</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>年经验</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="69D7D5EC" w14:textId="2774908F" w:rsidR="00551599" w:rsidRDefault="00A52BDA"
+             w:rsidP="00551599">
+            <w:r>
+                <w:t>xxxxphone</w:t>
+            </w:r>
+            <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="0"/>
+            <w:r w:rsidR="00551599">
+                <w:t xml:space="preserve">   |</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:tab/>
+            </w:r>
+            <w:r w:rsidR="0072192B">
+                <w:t>xxxxemail</w:t>
+            </w:r>
+            <w:r w:rsidR="00551599">
+                <w:tab/>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1836BAF8" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="06AF75B8" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>个人优势</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1443BB1C" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>有充满激情的工作态度，能够在没有监督的情况下按质量完成</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>工作任务，团队协作能力强，善于发现问题、执行力强</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="056DDB8B" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="628C2A14" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>期望职位</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="36371F27" w14:textId="62C941EA" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">Java  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>杭州</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>移动互联网</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7BB2E57E" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="191B1A2C" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>工作经历</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3FC7C627" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="6E099A89" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>杭州天阙科技有限公司</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="017A67D8" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  Java | </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发部</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+                <w:t>2018.04</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>—至今</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4FEE7680" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>专业技能</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0A44ECB6" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟练掌握</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>JAVA</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>面向对象语言。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1139C9C0" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟悉常用的设计模式，熟悉</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>MVC</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>框架。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="70FD9719" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟练掌握</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Servlet</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>JSP</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>JavaBean</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>JDBC</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Ajax</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>JQuery</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>WEB</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发技术。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4B9A9DCE" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟练掌握</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Struts2</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Hibernate</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Mybatis</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Springmvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等主流框架。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="05A4CE44" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟悉</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Angulars</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>前台框架。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1E89C5CC" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟练运用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>CSS</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>HTML</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>JavaScript</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>BootStrap</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等网页设计语言。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2675D457" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟悉</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SQLServer</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Mysql</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Oracle</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等关系型数据库以及</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SQL</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>语句。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="115FCE0C" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟练掌握</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Eclipse</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>和</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>MyEclipse</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等常用集成开发环境。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="23705DEE" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟悉</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Maven</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发工具。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="28D03673" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>了解</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>XML</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>，能使用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>PowerDesigner</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等建模工具。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="56C59C16" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟练运用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>BootStrap</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>勾勒前段页面，运用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>BootStrapValidator</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进行验证。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7601EEAD" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>熟悉</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Apache</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Tomcat</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等服务器响应请求。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="432E5843" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>了解可以简单使用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Linux</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>操作系统。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="63FCCE17" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>自我评价</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="747B3AB1" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>热爱工作，热爱生活，乐观向上的生活态度；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="36879F8C" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>对互联网有极高的兴趣，责任心强；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0C009275" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>工作细心，良好的沟通能力；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0CFF48C1" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="3896DB12" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>郑州盛腾电子科技有限公司</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0E5F1BE8" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  Java | </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发部</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+                <w:t>2016.08</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>—</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2018.01</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="71BE4901" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>1.</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>负责产品的需求开发</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2C038E45" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">2. </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>负责与测试配合处理</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>bug</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1F75BDEB" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="0303937A" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>项目经历</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3B3D5E27" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="3C51C5CD" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>军粮城大联动需求</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="281E2CD4" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  Java</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+                <w:t>2018.07</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>—</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2018.08</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="28AA9550" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>所属公司：杭州天阙有限公司</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="332EDECD" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统环境：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Eclipse+Jetty+Oracle+SVN</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="282635EA" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>所用技术：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring+SpringMvc+IBatis</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5CEF2ADF" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>技术架构：：项目采用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>IBatis</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>freemarker</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等技术，项目使用分层的架构设计。利用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>中的</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Controller</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进行流程控制，利用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>IBatis</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>设计持久化层，用代码封装对数据库的访问，用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringIoc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>实现依赖关系的注入，是的业务层和控制层离开来，降低代码的耦合性，便于后期维护，使用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>拦截器实现权限控制；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5E4C972F" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>功能模块：本系统是由事件受理、事件审批、事件代办、事件管理、受理中心菜单说明、综治</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>E</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>通改变、增加常用语功能组成；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3B50CEAD" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>责任描述：本人主要负责常用语和菜单管理功能，在综治中心领导“审批交回”、“上报街道主要领导”流程和街道主要领导“审核交回”通过流程内，对审批意见这个字段增加“选择常用语”功能，</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>pc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>端和手机端都需要。可以弹出一个选择框，</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>内容在系统管理，增加常用语维护功能，统一由系统管理员进行（新增、修改、删除）。把综合执法模块内的：综治中心领导审批、街道主要领导审批、房屋隐患办理、公共区域隐患办理、隐患列表挪到受理中心</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="26158C34" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="23B07A10" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="4447831E" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>天津市二期考核评估</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="067DDE6F" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  Java</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+                <w:t>2018.05</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>—</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2018.07</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="25CAF535" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>所属公司：杭州天阙有限公司</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="762DC486" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统环境：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Eclipse+Jetty+Oracle+SVN</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="54D93374" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>所用技术：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring+SpringMvc+IBatis</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2B97BCD6" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>技术架构：：项目采用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>IBatis</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>freemarker</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等技术，项目使用分层的架构设计。利用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>中的</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Controller</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进行流程控制，利用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>IBatis</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>设计持久化层，用代码封装对数据库的访问，用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringIoc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>实现依赖关系的注入，是的业务层和控制层离开来，降低代码的耦合性，便于后期维护，使用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>拦截器实现权限控制；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="77343375" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>功能模块：：本系统主要分为目标责任书、考评指标体系、自评、自评汇总、考核、考核自查、自评查询、进行评估、辖区上报情况构成，</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="28A707EA" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>项目描述：该二期需求主要为迭代需求，模块还是：目标责任书、考评指标体系、自评、自评汇总、考核、考核自查、自评查询、进行评估、辖区上报情况构成，</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2AE771F4" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>责任描述：就是在原有有的基础上增加一些功能；目标责任书模块和考评指标体系页面增加导出</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>excel</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>表格功能，自评模块在原先基础上增加上传自评依据功能。并且自评列表上增加发送数字段（只能填写整数包括</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>0</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>和正整数），去掉原先的自评分、累计得分、自评依据（页面去掉，数据库内还是保留），上报自评依据一个单位可以上报多个附件。</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    用户在操作“上报”功能时，把这块数据提交到自评汇总模块。也就是操作“上报”后，可以在自评汇总模块查看到自评依据，自评汇总模块列表页面增加发送总数字段（所有发送数总和），去掉原先的“总分”、“自评得分”、“累计得分”。点击查看页面。增加发送数字段，去掉原先的
+                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>“自评得分”、“累计得分”“自评依据”。</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    并且增加自评依据查询功能，展示出下辖上报上来的所有附件列表，可以点击下载，考核列表去掉自评分字段，增加发送总数，自评依据材料字段。点击展开评分，原先的自评分改成发送数。并且这几个字段必须要在进行评估页面共享自评后才可以查看，
+                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进行评估列表增加发生数字段，去掉原先的“自评分数”、“自评累计”、“自评依据”。并且增加自评依据查询模块，可以查看下辖各个区上报的自评材料文件，点击可以下载，新增目标责任书负面清单分值统计表
+                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>：主要是展示考评指标体系</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>负面清单部部分内容，考评单位为设置的考核单位，考评单位二级处室空着。分值为设置的总分分值。分数类型为“正分项、扣分项、奖励加分”，新目标责任书负面清单详细数据表：统计出所有负面清单的所有指标项（
+                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>1</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>3</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    级），比如“分类”为一级指标，“考评点”展示二、三级指标。这边字段“提供数据单位”展示为空。扣分值这边展示考核指标体系设置的总分。发生数取自评内的发生数。扣分数取考核内的考核得分，取扣分的绝对值。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0C0B5E3B" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="2B2AC6F1" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="231EC64C" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>天津市考核</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6EAA14AB" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  Java</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+                <w:t>2018.04</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>—</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2018.05</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0DE7D3C5" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>所属公司</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>:</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>杭州天阙有限公司</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="11B3D28F" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>项目描述：系统描述：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Eclipse+Jetty+Oracle+SVN</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3AA16EF2" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>所用技术：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring+SpringMvc+IBatis</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5E2A2031" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>技术架构：项目采用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>IBatis</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>freemarker</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等技术，项目使用分层的架构设计。利用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>中的</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Controller</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进行流程控制，利用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>IBatis</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>设计持久化层，用代码封装对数据库的访问，用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringIoc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>实现依赖关系的注入，是的业务层和控制层离开来，降低代码的耦合性，便于后期维护，使用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>拦截器实现权限控制；</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1121CF52" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>项目描述：上级发布之后才能看到目标责任书。目标责任书发布之后，自动生成考核标准的</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>1</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>级，考核职能部门、市考核处可以看到</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>1</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>级考核指标。市职能可以对一二级条目进行添加细则，启用后可以在自自评页面查看，由自评进行上报到自评汇总，自评汇总再上报是到考核评估和考核页面，</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="591B3642" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    责任描述：本人主要负责自评页面、自评汇总页面、考核页面；自评就是在一二级考核指标启用后进行对细则打分和自评依据的填写，可以根据年月日来进行查询，上报成功后到自评汇总页面，自评汇总页面可以进行回退，回退后可以在自评页面查看到回退依据，自评汇总如果不进行回退可以进行上报功能
+                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>，上报成功之后就是到进行评估页面和考核页面，进行评估页面和考核页面是天津市进行操作的，考核页面主要就是对我上报的内容进行查看，也可以对自己的考评进行打分，上报之后就是在考核自查页面进行数据对比。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="03FD6808" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="2B8CBD85" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="514F5D26" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>跑步社区站点</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6CB55FBB" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  java</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发工程师</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+                <w:t>2017.08</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>—</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2018.01</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="05267C7A" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>项目描述：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="30820B65" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统描述：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Eclipse+Tomcat+Oracle+SVN</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="07FBE894" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>所用技术：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring+SpringMvc+MyBatis</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="661622CC" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>技术架构：此系统为</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>B/S</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>模式。</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>B/S</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统分为</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Web</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>层、业务层、数据库访问层三层架构模式，</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>客户端不直接与数据库交互，而是通过中间层建立连接，再由中间层与数据库交互，谁用面</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>向接口的编程方式，配合</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringIoc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>的依赖注入。用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Web</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>层，处理用户请求；</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                 </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>使用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>MyBatis</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>实现对数据库持久层的操作，配置关系，管理加载方式提供</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SQL</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>优化，使用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spr ingIoc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进行解耦，实现无缝整合。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7A41CC50" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>功能模块：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="494821F5" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>依据对爱好跑步运动者的了解分析，最终决定该系统具有用户信息管理、消息管理、好友管</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>理、后台管理等功能模块。它为爱好运动者提供了全方位的服务，使运动爱好者之间可以通</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>过在运动论坛中交流彼此对运动的看法，道出运动爱好者的心声。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6F4B8872" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>项目描述：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3FBE7274" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>此站点是公司给那些爱好跑步的人提供一个网上交流平台，使跑步爱好者不需要进行面对面</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>的交流，只需要在网上查看运动爱好者的个人空间，从而了解他人的跑步爱好习惯，如果和</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>自己的爱好相同或相似就可以加对方好友给他们发信息，系统管理还可以通过后台管理对注</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>册的会员信息和积分进行管理，此站点的创建降低了商家成本，扩大了客户资源，打破了低</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>于的界限，方便了人们的需要，收到大众的欢迎。</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="08399B7E" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>责任描述：</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="250EF1F7" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>本人主要负责系统中的用户信息管理和好友管理两个模块，用户信息管理</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>:</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>用户可以在新用户</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">               </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>信息页面输入详细信息提交到服务器将用户信息保存到数据库中并跳转到登录页面；会员根</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>据自己的会员名和密码登录，登录成功后可在主页面看到音乐跑不停，跑步装备库，专业跑</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">               </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>步指南，跑步论坛等导航栏；好友管理：此模块分为好友速配，好友管理，黑名单管理，好</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>友速配可以根据会员号添加对方为好友，也可以根据姓名，会员号查询出自己的好友；好友</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>管理提供添加，删除好友，加入黑名单等操作；黑名单管理可以查看黑名单里面的好友，把</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">                </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>黑名单的重新添加为好友以及删除黑名单操作。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="49654541" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="4D1EB51D" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="2E1705F5" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>交通养护管理系统</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="444C5B79" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  Java</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+                <w:t>2017.03</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>—</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2017.07</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="405E1822" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>项目描述：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统环境：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Eclipse+Tomcat+Oracle+SVN</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="74D0AEC2" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>所用技术：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring+SpringMvc+MyBatis</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="04CD4396" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>技术架构：项目基于</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>B/S</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>模式开发。采用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>MyBatis</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>、</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>BootStrap</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>等技术，项目使用分层的架构设计。利用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>中的</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Controller</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>进行流程控制，利用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>MyBatis</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>设计持久化层，用代码封装对数据库的访问，用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringIoc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>实现依赖关系的注入，是的业务层和控制层离开来，降低代码的耦合性，便于后期维护，使用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringMvc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>拦截器</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="51A695C0" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>实现权限控制，用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>BootStrap</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发试图页面。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7ECBD2CB" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>功能模块：本系统主要分为基础数据管理、项目工程管理、数据查询、养护计划</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:lastRenderedPageBreak/>
+                <w:t>管理、维护下派、员工管理、养护记录、审核验收、统计报表、系统管理等模块构成。审核验收是通过上报的养护信息，验收人员可到现场路面进行工程验收，验收完成后，可形成验收单，并保存到数据库。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6C62B319" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    项目描述：交通养护管理系统是以养护计划为标准，实现对养护计划，基础数据，养护过程，工程资料，养护设备的信息化管理，做到养护信息与资源的共享，以及提高工作效率，改善工作条件。并能够提高对养护数据进行科学的分析，直观反应养护工程项目现在的状态和未来面临的问题，为养护的决策做出支持。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="217DC1F1" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>责任描述：本人主要负责维修下派，养护记录，审核验收，基础数据管理和数据库查询模块。基础数据管理</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>:</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    提供项目所需的基本信息录入，编辑和维护。包括材料信息，部门信息，员工信息，数据查询，根据养护类型查询；小修类，大中修类和专项类查询相应的养护数据；根据工程类型查询某一天工程类型的所有数据和养护数据。
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7085F7C4" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="5E7F0367" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="49B26128" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>教学管理系统</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5B461418" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  Java</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+                <w:t>2016.08</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>—</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2017.01</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2A7DD162" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>项目描述：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>系统环境：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Eclipse+SVN+MySql+Tomcat</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="37D66F53" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>所用技术：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Spring+Struts2+Hibernate</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="38798B02" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>技术架构：该项目选取</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SSH</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>架构来设计和开发，</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>V</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>层采用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>JSP</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>及</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Struts2</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>的</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>OGML</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>标签进行数据显示和提交，</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>M</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>层使用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Hibernate</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>实现对数据库持久层的操作，配置关系。</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>C</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>层使用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Struts2</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>开发</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Web</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>层，设计</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>Action</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>组建用户请求，通过</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>SpringIoc</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>来实现组件之间依赖关系注入，用</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>AOP</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>切面编程思想控制具体审核、审批流程的运转，实现方面组件和目标对象之间的解耦。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="29D6ACFC" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>功能模块：：校情管理，财务管理，教务管理，学员管理，资源管理等模块。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="2BB7108C" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>项目描述：教学管理系统用途主要是专门针对社会各类培训学校、培训中心而开发的一套综合性管理软件，对学校的日常事物进行记录，提高学校管理的效率。</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="29028BE6" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>责任描述：</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>
+                    责任描述：本人负责的是教务管理，学员管理模块的开发。教务管理中教师是本系统的部门信息的维护人员，可以发布作业，上传教学资料等，学生是本系统是主要使用者，可以查看所有课程的相关信息。管理员是本系统的最终信息维护人员，可以添加修改教师及学生的信息
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="61BDC381" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="48021A9B" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="13C397FC" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>教育经历</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="51AA52B2" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="0E3360B1" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>湖北文理学院</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="64111A99" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599">
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve">  </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>计算机科学与技术</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> | </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>本科</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:tab/>
+                <w:t>2012</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>—</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+                <w:t>2016</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7F36578A" w14:textId="77777777" w:rsidR="00551599" w:rsidRDefault="00551599"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="42CBCD90" w14:textId="77777777" w:rsidR="00A616A5" w:rsidRDefault="00A616A5"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="1F99EE0C" w14:textId="77777777" w:rsidR="00A616A5" w:rsidRDefault="00A616A5"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="6F4E08F0" w14:textId="77777777" w:rsidR="00A616A5" w:rsidRDefault="00A616A5"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="1FB9E370" w14:textId="77777777" w:rsidR="00A616A5" w:rsidRDefault="00A616A5"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="39570A18" w14:textId="77777777" w:rsidR="00A616A5" w:rsidRDefault="00A616A5"
+             w:rsidP="00551599"/>
+        <w:p w14:paraId="5B2AFC5B" w14:textId="29F35634" w:rsidR="00A616A5" w:rsidRDefault="00F16B1D"
+             w:rsidP="00F16B1D">
+            <w:pPr>
+                <w:pStyle w:val="1"/>
+                <w:jc w:val="center"/>
+            </w:pPr>
+            <w:r>
+                <w:lastRenderedPageBreak/>
+                <w:t>hfafasfdsaf</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="691F266E" w14:textId="120F8B36" w:rsidR="00EB75AC" w:rsidRDefault="00D871E3"
+             w:rsidP="00D871E3">
+            <w:pPr>
+                <w:pStyle w:val="a4"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="6"/>
+                </w:numPr>
+                <w:ind w:firstLineChars="0"/>
+            </w:pPr>
+            <w:r>
+                <w:t>hhhhh</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="795C5747" w14:textId="668D35A1" w:rsidR="00463AF5" w:rsidRPr="00EB75AC"
+             w:rsidRDefault="00EB75AC" w:rsidP="00EB75AC">
+            <w:pPr>
+                <w:tabs>
+                    <w:tab w:val="left" w:pos="803"/>
+                </w:tabs>
+            </w:pPr>
+            <w:r>
+                <w:tab/>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidR="00463AF5" w:rsidRPr="00EB75AC" w:rsidSect="00551599">
+            <w:headerReference w:type="default" r:id="rId8"/>
+            <w:footerReference w:type="default" r:id="rId9"/>
+            <w:pgSz w:w="11900" w:h="16840"/>
+            <w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="851" w:footer="992"
+                     w:gutter="0"/>
+            <w:cols w:space="425"/>
+            <w:docGrid w:type="lines" w:linePitch="326"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
