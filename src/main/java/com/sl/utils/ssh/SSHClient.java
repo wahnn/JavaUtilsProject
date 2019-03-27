@@ -207,6 +207,7 @@ public class SSHClient {
                 result.append(buf + "\n");
             }
             retResult.put("success", true);
+            retResult.put("result",result.toString());
             retResult.put("msg", "执行命令成功");
         } catch (JSchException | IOException e) {
 //            result += e.getMessage();
