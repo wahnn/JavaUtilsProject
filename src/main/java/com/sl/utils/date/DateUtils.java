@@ -279,4 +279,8 @@ public class DateUtils {
         return day * 24 * 60  + hour * 60  + min;
     }
 
+    public synchronized  long  getFileNameStr(){
+        return System.currentTimeMillis();
+    }
+
 }

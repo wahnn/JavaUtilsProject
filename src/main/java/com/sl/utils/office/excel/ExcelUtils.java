@@ -102,7 +102,7 @@ public class ExcelUtils {
 
             // Write the output to a file
             try (FileOutputStream fileOut = new FileOutputStream(filePath+fileName)) {
-                wb.write(fileOut);
+                wb.write(          );
                 fileOut.close();
             }
 
